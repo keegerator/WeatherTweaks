@@ -1,0 +1,7 @@
+name: WeatherTweaks
+version: 1.0.0
+main: dev.kdwyer.weathertweaks.WeatherTweaks
+description: A plugin for granular weather customization
+author: kdwyer
+website: https://kdwyer.dev
+api-version: 1.19
